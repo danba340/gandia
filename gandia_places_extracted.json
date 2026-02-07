@@ -35,21 +35,6 @@
       "visited": false
     },
     {
-      "index": 3,
-      "name": "Marche",
-      "rating": "",
-      "review_count": "",
-      "price": "",
-      "category": "",
-      "location": "Italy",
-      "status": "",
-      "raw_text": "Marche Italy",
-      "lat": 43.3450345,
-      "lon": 13.1423276,
-      "partOfPlan": [],
-      "visited": false
-    },
-    {
       "index": 4,
       "name": "Bodegas Riko y Loterías",
       "rating": "4.6",
