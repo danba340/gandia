@@ -1,0 +1,1016 @@
+{
+  "ok": true,
+  "total": 60,
+  "items": [
+    {
+      "index": 1,
+      "name": "NARANJAS VITAL naranjas de mesa, de zumo, mandarinas y miel",
+      "rating": "5.0",
+      "review_count": "7",
+      "price": "",
+      "category": "Greengrocer",
+      "location": "",
+      "status": "",
+      "raw_text": "NARANJAS VITAL naranjas de mesa, de zumo, mandarinas y miel 5.0(7) Greengrocer",
+      "lat": 38.974,
+      "lon": -0.1761,
+      "partOfPlan": [
+        "day-07 | Too Old For This, Too Thirsty To Quit: Ten1 Tapas followed by Naranja Tradicional De Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 2,
+      "name": "naranjas de la tierra a la mesa",
+      "rating": "5.0",
+      "review_count": "9",
+      "price": "",
+      "category": "Agricultural production",
+      "location": "",
+      "status": "",
+      "raw_text": "naranjas de la tierra a la mesa 5.0(9) Agricultural production",
+      "lat": 40.5021646,
+      "lon": -3.3841572,
+      "partOfPlan": [],
+      "visited": false
+    },
+    {
+      "index": 3,
+      "name": "Marche",
+      "rating": "",
+      "review_count": "",
+      "price": "",
+      "category": "",
+      "location": "Italy",
+      "status": "",
+      "raw_text": "Marche Italy",
+      "lat": 43.3450345,
+      "lon": 13.1423276,
+      "partOfPlan": [],
+      "visited": false
+    },
+    {
+      "index": 4,
+      "name": "Bodegas Riko y Loterías",
+      "rating": "4.6",
+      "review_count": "250",
+      "price": "",
+      "category": "Winery",
+      "location": "",
+      "status": "",
+      "raw_text": "Bodegas Riko y Loterías 4.6(250) Winery",
+      "lat": 38.7424,
+      "lon": -0.0139,
+      "partOfPlan": [
+        "day-11 | The Please-Stop-Touching-Things Route: Bodegas Riko y Loterías followed by Parc aquàtic Devesa Gardens"
+      ],
+      "visited": false
+    },
+    {
+      "index": 5,
+      "name": "La Llimera Passeig",
+      "rating": "4.1",
+      "review_count": "756",
+      "price": "$",
+      "category": "Restaurant",
+      "location": "",
+      "status": "",
+      "raw_text": "La Llimera Passeig 4.1(756) $ · Restaurant",
+      "lat": 38.9654061,
+      "lon": -0.1813978,
+      "partOfPlan": [
+        "day-05 | Cabernet and Complainernet Crawl: La Llimera Passeig followed by Mercadona"
+      ],
+      "visited": false
+    },
+    {
+      "index": 6,
+      "name": "Carns Vicent (Vicente Jose Guerrero Boix)",
+      "rating": "4.8",
+      "review_count": "80",
+      "price": "",
+      "category": "Butcher shop",
+      "location": "",
+      "status": "",
+      "raw_text": "Carns Vicent (Vicente Jose Guerrero Boix) 4.8(80) Butcher shop",
+      "lat": 38.9332823,
+      "lon": -0.1869309,
+      "partOfPlan": [
+        "day-08 | Noisy Kids, Nice Views, One Beer Later: Centro de interpretación Marjal de Gandia followed by lunch at Restaurante El Asombro Garden Grill"
+      ],
+      "visited": false
+    },
+    {
+      "index": 7,
+      "name": "Restaurant Telero",
+      "rating": "4.6",
+      "review_count": "1253",
+      "price": "€30–40",
+      "category": "Mediterranean",
+      "location": "",
+      "status": "",
+      "raw_text": "Restaurant Telero 4.6(1,253) €30–40 · Mediterranean",
+      "lat": 38.9643374,
+      "lon": -0.1810374,
+      "partOfPlan": [
+        "day-06 | The Decibel Defense Day Trip: Restaurant Telero followed by Forn del Duc Panaderia, Pasteleria"
+      ],
+      "visited": false
+    },
+    {
+      "index": 8,
+      "name": "Tokio Ramen",
+      "rating": "4.9",
+      "review_count": "280",
+      "price": "€10–20",
+      "category": "Authentic Japanese",
+      "location": "",
+      "status": "",
+      "raw_text": "Tokio Ramen 4.9(280) €10–20 · Authentic Japanese",
+      "lat": 38.9656083,
+      "lon": -0.1823682,
+      "partOfPlan": [
+        "day-05 | Cabernet and Complainernet Crawl: La Llimera Passeig followed by Mercadona"
+      ],
+      "visited": false
+    },
+    {
+      "index": 9,
+      "name": "LIDER MARKET GANDÍA",
+      "rating": "4.2",
+      "review_count": "180",
+      "price": "",
+      "category": "Department store",
+      "location": "",
+      "status": "",
+      "raw_text": "LIDER MARKET GANDÍA 4.2(180) Department store",
+      "lat": 38.958,
+      "lon": -0.1748,
+      "partOfPlan": [
+        "day-03 | Shhh... The Kids Are Plotting (Coffee Loop): D-COW Gandia followed by Parque Comercial Myo Gandia"
+      ],
+      "visited": false
+    },
+    {
+      "index": 10,
+      "name": "mercat del prado",
+      "rating": "3.7",
+      "review_count": "67",
+      "price": "",
+      "category": "Market",
+      "location": "",
+      "status": "",
+      "raw_text": "mercat del prado 3.7(67) Market",
+      "lat": 38.9644596,
+      "lon": -0.1827089,
+      "partOfPlan": [
+        "day-04 | Hop To It Before Dad Needs A Nap: Street Food By Chema Soler followed by mercat del prado"
+      ],
+      "visited": false
+    },
+    {
+      "index": 11,
+      "name": "Grao Street Market",
+      "rating": "3.6",
+      "review_count": "135",
+      "price": "",
+      "category": "Flea market",
+      "location": "",
+      "status": "",
+      "raw_text": "Grao Street Market 3.6(135) Flea market",
+      "lat": 37.975154,
+      "lon": -0.679331,
+      "partOfPlan": [],
+      "visited": false
+    },
+    {
+      "index": 12,
+      "name": "Don Tomàs",
+      "rating": "4.3",
+      "review_count": "378",
+      "price": "€20–30",
+      "category": "Restaurant",
+      "location": "",
+      "status": "",
+      "raw_text": "Don Tomàs 4.3(378) €20–30 · Restaurant",
+      "lat": 38.9641854,
+      "lon": -0.1685689,
+      "partOfPlan": [
+        "day-03 | Shhh... The Kids Are Plotting (Coffee Loop): D-COW Gandia followed by Parque Comercial Myo Gandia"
+      ],
+      "visited": false
+    },
+    {
+      "index": 13,
+      "name": "Bodega Pepe Mendoza Enoturismo en Alicante",
+      "rating": "4.9",
+      "review_count": "1092",
+      "price": "",
+      "category": "Winery",
+      "location": "",
+      "status": "",
+      "raw_text": "Bodega Pepe Mendoza Enoturismo en Alicante 4.9(1,092) Winery",
+      "lat": 38.478562,
+      "lon": -0.5686706,
+      "partOfPlan": [
+        "day-11 | The Please-Stop-Touching-Things Route: Bodegas Riko y Loterías followed by Parc aquàtic Devesa Gardens"
+      ],
+      "visited": false
+    },
+    {
+      "index": 14,
+      "name": "Bodegas Gutiérrez de la Vega",
+      "rating": "4.7",
+      "review_count": "85",
+      "price": "",
+      "category": "Winery",
+      "location": "",
+      "status": "",
+      "raw_text": "Bodegas Gutiérrez de la Vega 4.7(85) Winery",
+      "lat": 38.7442128,
+      "lon": -0.0644274,
+      "partOfPlan": [
+        "day-10 | South Side Sips and Snack Bribes: Riu Serpis - Vilallonga followed by Via verda del Serpis - Villalonga"
+      ],
+      "visited": false
+    },
+    {
+      "index": 15,
+      "name": "Bodegas Enguera - EntreViñedos",
+      "rating": "4.7",
+      "review_count": "187",
+      "price": "",
+      "category": "Winery",
+      "location": "",
+      "status": "",
+      "raw_text": "Bodegas Enguera - EntreViñedos 4.7(187) Winery",
+      "lat": 39.4667989,
+      "lon": -0.3946004,
+      "partOfPlan": [
+        "day-09 | Northbound & Slightly Over-Caffeinated: Aquopolis Cullera followed by Bodegas Enguera - EntreViñedos"
+      ],
+      "visited": false
+    },
+    {
+      "index": 16,
+      "name": "Via verda del Serpis - Villalonga",
+      "rating": "4.8",
+      "review_count": "73",
+      "price": "",
+      "category": "Hiking area",
+      "location": "",
+      "status": "",
+      "raw_text": "Via verda del Serpis - Villalonga 4.8(73) Hiking area",
+      "lat": 38.88101,
+      "lon": -0.25138,
+      "partOfPlan": [
+        "day-10 | South Side Sips and Snack Bribes: Riu Serpis - Vilallonga followed by Via verda del Serpis - Villalonga"
+      ],
+      "visited": false
+    },
+    {
+      "index": 17,
+      "name": "Riu Serpis - Vilallonga",
+      "rating": "4.7",
+      "review_count": "257",
+      "price": "",
+      "category": "Tourist attraction",
+      "location": "",
+      "status": "",
+      "raw_text": "Riu Serpis - Vilallonga 4.7(257) Tourist attraction",
+      "lat": 38.8899134,
+      "lon": -0.2105929,
+      "partOfPlan": [
+        "day-10 | South Side Sips and Snack Bribes: Riu Serpis - Vilallonga followed by Via verda del Serpis - Villalonga"
+      ],
+      "visited": false
+    },
+    {
+      "index": 18,
+      "name": "Via verda del Serpis - l'Orxa",
+      "rating": "4.8",
+      "review_count": "91",
+      "price": "",
+      "category": "Hiking area",
+      "location": "",
+      "status": "",
+      "raw_text": "Via verda del Serpis - l'Orxa 4.8(91) Hiking area",
+      "lat": 38.8596947,
+      "lon": -0.3049777,
+      "partOfPlan": [
+        "day-10 | South Side Sips and Snack Bribes: Riu Serpis - Vilallonga followed by Via verda del Serpis - Villalonga"
+      ],
+      "visited": false
+    },
+    {
+      "index": 19,
+      "name": "Centro de interpretación Marjal de Gandia",
+      "rating": "4.5",
+      "review_count": "247",
+      "price": "",
+      "category": "Museum",
+      "location": "",
+      "status": "",
+      "raw_text": "Centro de interpretación Marjal de Gandia 4.5(247) Museum",
+      "lat": 38.9897582,
+      "lon": -0.1775009,
+      "partOfPlan": [
+        "day-08 | Noisy Kids, Nice Views, One Beer Later: Centro de interpretación Marjal de Gandia followed by lunch at Restaurante El Asombro Garden Grill"
+      ],
+      "visited": false
+    },
+    {
+      "index": 20,
+      "name": "Plaça del Mercat",
+      "rating": "4.5",
+      "review_count": "1547",
+      "price": "",
+      "category": "Historical landmark",
+      "location": "",
+      "status": "",
+      "raw_text": "Plaça del Mercat 4.5(1,547) Historical landmark",
+      "lat": 38.874871,
+      "lon": -0.3817096,
+      "partOfPlan": [
+        "day-12 | West Coast Dad Joke Detour: Supermercados Consum followed by Simat de la Valldigna"
+      ],
+      "visited": false
+    },
+    {
+      "index": 21,
+      "name": "Castell de Xàtiva",
+      "rating": "4.5",
+      "review_count": "10735",
+      "price": "",
+      "category": "Castle",
+      "location": "",
+      "status": "",
+      "raw_text": "Castell de Xàtiva 4.5(10,735) Castle",
+      "lat": 38.9579554,
+      "lon": -0.1847023,
+      "partOfPlan": [
+        "day-03 | Shhh... The Kids Are Plotting (Coffee Loop): D-COW Gandia followed by Parque Comercial Myo Gandia"
+      ],
+      "visited": false
+    },
+    {
+      "index": 22,
+      "name": "KayakBeni",
+      "rating": "4.5",
+      "review_count": "98",
+      "price": "",
+      "category": "Canoe & kayak rental service",
+      "location": "",
+      "status": "",
+      "raw_text": "KayakBeni 4.5(98) Canoe & kayak rental service",
+      "lat": 38.9690169,
+      "lon": -0.1851574,
+      "partOfPlan": [
+        "day-06 | The Decibel Defense Day Trip: Restaurant Telero followed by Forn del Duc Panaderia, Pasteleria"
+      ],
+      "visited": false
+    },
+    {
+      "index": 23,
+      "name": "Simat de la Valldigna",
+      "rating": "",
+      "review_count": "",
+      "price": "",
+      "category": "",
+      "location": "Valencia Spain",
+      "status": "",
+      "raw_text": "Simat de la Valldigna Valencia Spain",
+      "lat": 39.0435456,
+      "lon": -0.3106008,
+      "partOfPlan": [
+        "day-12 | West Coast Dad Joke Detour: Supermercados Consum followed by Simat de la Valldigna"
+      ],
+      "visited": false
+    },
+    {
+      "index": 24,
+      "name": "El Castell de Guadalest",
+      "rating": "",
+      "review_count": "",
+      "price": "",
+      "category": "",
+      "location": "Alicante Spain",
+      "status": "",
+      "raw_text": "El Castell de Guadalest Alicante Spain",
+      "lat": 38.6764386,
+      "lon": -0.198618,
+      "partOfPlan": [
+        "day-10 | South Side Sips and Snack Bribes: Riu Serpis - Vilallonga followed by Via verda del Serpis - Villalonga"
+      ],
+      "visited": false
+    },
+    {
+      "index": 25,
+      "name": "Bocairent",
+      "rating": "",
+      "review_count": "",
+      "price": "",
+      "category": "",
+      "location": "Valencia Spain",
+      "status": "",
+      "raw_text": "Bocairent Valencia Spain",
+      "lat": 38.7678125,
+      "lon": -0.6086135,
+      "partOfPlan": [
+        "day-12 | West Coast Dad Joke Detour: Supermercados Consum followed by Simat de la Valldigna"
+      ],
+      "visited": false
+    },
+    {
+      "index": 26,
+      "name": "Bancal de Cento",
+      "rating": "4.6",
+      "review_count": "35",
+      "price": "",
+      "category": "Greengrocer",
+      "location": "",
+      "status": "",
+      "raw_text": "Bancal de Cento 4.6(35) Greengrocer",
+      "lat": 38.9829,
+      "lon": -0.1567,
+      "partOfPlan": [
+        "day-01 | The Lager Than Life Warmup: Carnicería Casa Conchin followed by Panaderia Vila"
+      ],
+      "visited": false
+    },
+    {
+      "index": 27,
+      "name": "Vives Park",
+      "rating": "4.2",
+      "review_count": "321",
+      "price": "",
+      "category": "Theme park",
+      "location": "",
+      "status": "",
+      "raw_text": "Vives Park 4.2(321) Theme park",
+      "lat": 38.8769431,
+      "lon": -0.0396805,
+      "partOfPlan": [
+        "day-11 | The Please-Stop-Touching-Things Route: Bodegas Riko y Loterías followed by Parc aquàtic Devesa Gardens"
+      ],
+      "visited": false
+    },
+    {
+      "index": 28,
+      "name": "Parc aquàtic Devesa Gardens",
+      "rating": "4.1",
+      "review_count": "26",
+      "price": "",
+      "category": "",
+      "location": "",
+      "status": "Temporarily closed",
+      "raw_text": "Parc aquàtic Devesa Gardens 4.1(26) Temporarily closed",
+      "lat": 38.8764725,
+      "lon": -0.0341334,
+      "partOfPlan": [
+        "day-11 | The Please-Stop-Touching-Things Route: Bodegas Riko y Loterías followed by Parc aquàtic Devesa Gardens"
+      ],
+      "visited": false
+    },
+    {
+      "index": 29,
+      "name": "Panadería Forn Victoria",
+      "rating": "4.5",
+      "review_count": "456",
+      "price": "€1–10",
+      "category": "Bakery",
+      "location": "",
+      "status": "",
+      "raw_text": "Panadería Forn Victoria 4.5(456) €1–10 · Bakery",
+      "lat": 38.96541,
+      "lon": -0.18846,
+      "partOfPlan": [
+        "day-07 | Too Old For This, Too Thirsty To Quit: Ten1 Tapas followed by Naranja Tradicional De Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 30,
+      "name": "Panaderia Vila",
+      "rating": "4.5",
+      "review_count": "324",
+      "price": "$",
+      "category": "Pastries",
+      "location": "",
+      "status": "",
+      "raw_text": "Panaderia Vila 4.5(324) $ · Pastries",
+      "lat": 38.995,
+      "lon": -0.1628,
+      "partOfPlan": [
+        "day-01 | The Lager Than Life Warmup: Carnicería Casa Conchin followed by Panaderia Vila"
+      ],
+      "visited": false
+    },
+    {
+      "index": 31,
+      "name": "Forn del Duc Panaderia, Pasteleria",
+      "rating": "4.4",
+      "review_count": "419",
+      "price": "€1–10",
+      "category": "Bakery",
+      "location": "",
+      "status": "",
+      "raw_text": "Forn del Duc Panaderia, Pasteleria 4.4(419) €1–10 · Bakery",
+      "lat": 38.9699131,
+      "lon": -0.1858982,
+      "partOfPlan": [
+        "day-06 | The Decibel Defense Day Trip: Restaurant Telero followed by Forn del Duc Panaderia, Pasteleria"
+      ],
+      "visited": false
+    },
+    {
+      "index": 32,
+      "name": "Granier",
+      "rating": "4.1",
+      "review_count": "776",
+      "price": "€1–10",
+      "category": "Bakery",
+      "location": "",
+      "status": "",
+      "raw_text": "Granier 4.1(776) €1–10 · Bakery",
+      "lat": 38.966798,
+      "lon": -0.1806879,
+      "partOfPlan": [
+        "day-04 | Hop To It Before Dad Needs A Nap: Street Food By Chema Soler followed by mercat del prado"
+      ],
+      "visited": false
+    },
+    {
+      "index": 33,
+      "name": "Susi’s Cheesecakes",
+      "rating": "5.0",
+      "review_count": "23",
+      "price": "",
+      "category": "Pastries",
+      "location": "",
+      "status": "",
+      "raw_text": "Susi’s Cheesecakes 5.0(23) Pastries",
+      "lat": 51.7762721,
+      "lon": 0.0882769,
+      "partOfPlan": [],
+      "visited": false
+    },
+    {
+      "index": 34,
+      "name": "Taco Bell",
+      "rating": "4.0",
+      "review_count": "348",
+      "price": "€10–20",
+      "category": "Fast Food",
+      "location": "",
+      "status": "",
+      "raw_text": "Taco Bell 4.0(348) €10–20 · Fast Food",
+      "lat": 38.9708776,
+      "lon": -0.1697674,
+      "partOfPlan": [
+        "day-02 | Whine Not, We’re on Holiday: 38°59'06.2\"N 0°09'09.4\"W followed by lunch at KaiSushi CC Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 35,
+      "name": "Coves de Sant Josep",
+      "rating": "4.6",
+      "review_count": "23138",
+      "price": "",
+      "category": "Tourist attraction",
+      "location": "",
+      "status": "",
+      "raw_text": "Coves de Sant Josep 4.6(23,138) Tourist attraction",
+      "lat": 38.9863,
+      "lon": -0.5183,
+      "partOfPlan": [
+        "day-12 | West Coast Dad Joke Detour: Supermercados Consum followed by Simat de la Valldigna"
+      ],
+      "visited": false
+    },
+    {
+      "index": 36,
+      "name": "Parque de Benicalap",
+      "rating": "4.4",
+      "review_count": "6514",
+      "price": "",
+      "category": "Park",
+      "location": "",
+      "status": "",
+      "raw_text": "Parque de Benicalap 4.4(6,514) Park",
+      "lat": 39.49759,
+      "lon": -0.39656,
+      "partOfPlan": [
+        "day-09 | Northbound & Slightly Over-Caffeinated: Aquopolis Cullera followed by Bodegas Enguera - EntreViñedos"
+      ],
+      "visited": false
+    },
+    {
+      "index": 37,
+      "name": "Carnicería Casa Conchin",
+      "rating": "4.6",
+      "review_count": "49",
+      "price": "",
+      "category": "Butcher shop",
+      "location": "",
+      "status": "",
+      "raw_text": "Carnicería Casa Conchin 4.6(49) Butcher shop",
+      "lat": 38.9958549,
+      "lon": -0.1573129,
+      "partOfPlan": [
+        "day-01 | The Lager Than Life Warmup: Carnicería Casa Conchin followed by Panaderia Vila"
+      ],
+      "visited": false
+    },
+    {
+      "index": 38,
+      "name": "Carniceria el Corral Gandia / Carns / Carne Ecológica / Potro",
+      "rating": "4.4",
+      "review_count": "52",
+      "price": "",
+      "category": "Butcher shop",
+      "location": "",
+      "status": "",
+      "raw_text": "Carniceria el Corral Gandia / Carns / Carne Ecológica / Potro 4.4(52) Butcher shop",
+      "lat": 38.9728374,
+      "lon": -0.1762383,
+      "partOfPlan": [
+        "day-07 | Too Old For This, Too Thirsty To Quit: Ten1 Tapas followed by Naranja Tradicional De Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 39,
+      "name": "Carnicería Merche Gandía",
+      "rating": "4.9",
+      "review_count": "255",
+      "price": "",
+      "category": "Butcher shop",
+      "location": "",
+      "status": "",
+      "raw_text": "Carnicería Merche Gandía 4.9(255) Butcher shop",
+      "lat": 38.9698739,
+      "lon": -0.185241,
+      "partOfPlan": [
+        "day-05 | Cabernet and Complainernet Crawl: La Llimera Passeig followed by Mercadona"
+      ],
+      "visited": false
+    },
+    {
+      "index": 40,
+      "name": "RESTAURANTE ROMANOVA",
+      "rating": "4.9",
+      "review_count": "2923",
+      "price": "€20–30",
+      "category": "Restaurant",
+      "location": "",
+      "status": "",
+      "raw_text": "RESTAURANTE ROMANOVA 4.9(2,923) €20–30 · Restaurant",
+      "lat": 38.9646489,
+      "lon": -0.1828159,
+      "partOfPlan": [
+        "day-04 | Hop To It Before Dad Needs A Nap: Street Food By Chema Soler followed by mercat del prado"
+      ],
+      "visited": false
+    },
+    {
+      "index": 41,
+      "name": "Aquopolis Cullera",
+      "rating": "3.3",
+      "review_count": "5947",
+      "price": "",
+      "category": "",
+      "location": "",
+      "status": "Temporarily closed",
+      "raw_text": "Aquopolis Cullera 3.3(5,947) Temporarily closed",
+      "lat": 39.185732,
+      "lon": -0.255095,
+      "partOfPlan": [
+        "day-09 | Northbound & Slightly Over-Caffeinated: Aquopolis Cullera followed by Bodegas Enguera - EntreViñedos"
+      ],
+      "visited": false
+    },
+    {
+      "index": 42,
+      "name": "Parque Comercial Myo Gandia",
+      "rating": "4.1",
+      "review_count": "5203",
+      "price": "",
+      "category": "Shopping mall",
+      "location": "",
+      "status": "",
+      "raw_text": "Parque Comercial Myo Gandia 4.1(5,203) Shopping mall",
+      "lat": 38.9579,
+      "lon": -0.1738,
+      "partOfPlan": [
+        "day-03 | Shhh... The Kids Are Plotting (Coffee Loop): D-COW Gandia followed by Parque Comercial Myo Gandia"
+      ],
+      "visited": false
+    },
+    {
+      "index": 43,
+      "name": "Mirador",
+      "rating": "4.6",
+      "review_count": "271",
+      "price": "",
+      "category": "Observation deck",
+      "location": "",
+      "status": "",
+      "raw_text": "Mirador 4.6(271) Observation deck",
+      "lat": 37.2815,
+      "lon": -1.7379,
+      "partOfPlan": [],
+      "visited": false
+    },
+    {
+      "index": 44,
+      "name": "ALDI",
+      "rating": "4.2",
+      "review_count": "1588",
+      "price": "$",
+      "category": "General store",
+      "location": "",
+      "status": "",
+      "raw_text": "ALDI 4.2(1,588) $ · General store",
+      "lat": 38.9847846,
+      "lon": -0.1638139,
+      "partOfPlan": [
+        "day-01 | The Lager Than Life Warmup: Carnicería Casa Conchin followed by Panaderia Vila"
+      ],
+      "visited": false
+    },
+    {
+      "index": 45,
+      "name": "Gasolinera low cost VCC",
+      "rating": "3.9",
+      "review_count": "167",
+      "price": "",
+      "category": "Gas station",
+      "location": "",
+      "status": "",
+      "raw_text": "Gasolinera low cost VCC 3.9(167) Gas station",
+      "lat": 39.8443824,
+      "lon": -0.479663,
+      "partOfPlan": [
+        "day-09 | Northbound & Slightly Over-Caffeinated: Aquopolis Cullera followed by Bodegas Enguera - EntreViñedos"
+      ],
+      "visited": false
+    },
+    {
+      "index": 46,
+      "name": "Family Cash",
+      "rating": "4.2",
+      "review_count": "3960",
+      "price": "",
+      "category": "Hypermarket",
+      "location": "",
+      "status": "",
+      "raw_text": "Family Cash 4.2(3,960) Hypermarket",
+      "lat": 38.98387,
+      "lon": -0.16362,
+      "partOfPlan": [
+        "day-01 | The Lager Than Life Warmup: Carnicería Casa Conchin followed by Panaderia Vila"
+      ],
+      "visited": false
+    },
+    {
+      "index": 47,
+      "name": "Kampaoh Cova Negra",
+      "rating": "4.3",
+      "review_count": "304",
+      "price": "",
+      "category": "Campground",
+      "location": "",
+      "status": "",
+      "raw_text": "Kampaoh Cova Negra 4.3(304) Campground",
+      "lat": 38.963167,
+      "lon": -0.227229,
+      "partOfPlan": [
+        "day-08 | Noisy Kids, Nice Views, One Beer Later: Centro de interpretación Marjal de Gandia followed by lunch at Restaurante El Asombro Garden Grill"
+      ],
+      "visited": false
+    },
+    {
+      "index": 48,
+      "name": "Carrefour",
+      "rating": "4.0",
+      "review_count": "7836",
+      "price": "",
+      "category": "Hypermarket",
+      "location": "",
+      "status": "",
+      "raw_text": "Carrefour 4.0(7,836) Hypermarket",
+      "lat": 38.970562,
+      "lon": -0.169847,
+      "partOfPlan": [
+        "day-02 | Whine Not, We’re on Holiday: 38°59'06.2\"N 0°09'09.4\"W followed by lunch at KaiSushi CC Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 49,
+      "name": "Supermercados Consum",
+      "rating": "4.2",
+      "review_count": "764",
+      "price": "",
+      "category": "Supermarket",
+      "location": "",
+      "status": "",
+      "raw_text": "Supermercados Consum 4.2(764) Supermarket",
+      "lat": 39.0695,
+      "lon": -0.27307,
+      "partOfPlan": [
+        "day-12 | West Coast Dad Joke Detour: Supermercados Consum followed by Simat de la Valldigna"
+      ],
+      "visited": false
+    },
+    {
+      "index": 50,
+      "name": "Naranja Tradicional De Gandía",
+      "rating": "4.8",
+      "review_count": "96",
+      "price": "",
+      "category": "Greengrocer",
+      "location": "",
+      "status": "",
+      "raw_text": "Naranja Tradicional De Gandía 4.8(96) Greengrocer",
+      "lat": 38.9667655,
+      "lon": -0.184372,
+      "partOfPlan": [
+        "day-07 | Too Old For This, Too Thirsty To Quit: Ten1 Tapas followed by Naranja Tradicional De Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 51,
+      "name": "Lidl Gandia",
+      "rating": "4.3",
+      "review_count": "3909",
+      "price": "",
+      "category": "Discount supermarket",
+      "location": "",
+      "status": "",
+      "raw_text": "Lidl Gandia 4.3(3,909) Discount supermarket",
+      "lat": 38.9688878,
+      "lon": -0.1710576,
+      "partOfPlan": [
+        "day-02 | Whine Not, We’re on Holiday: 38°59'06.2\"N 0°09'09.4\"W followed by lunch at KaiSushi CC Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 52,
+      "name": "Supermercat Consum",
+      "rating": "4.3",
+      "review_count": "561",
+      "price": "",
+      "category": "Supermarket",
+      "location": "",
+      "status": "",
+      "raw_text": "Supermercat Consum 4.3(561) Supermarket",
+      "lat": 39.00472,
+      "lon": -0.16843,
+      "partOfPlan": [
+        "day-08 | Noisy Kids, Nice Views, One Beer Later: Centro de interpretación Marjal de Gandia followed by lunch at Restaurante El Asombro Garden Grill"
+      ],
+      "visited": false
+    },
+    {
+      "index": 53,
+      "name": "Mercadona",
+      "rating": "4.2",
+      "review_count": "3600",
+      "price": "",
+      "category": "Supermarket",
+      "location": "",
+      "status": "",
+      "raw_text": "Mercadona 4.2(3,600) Supermarket",
+      "lat": 38.9708557,
+      "lon": -0.1808334,
+      "partOfPlan": [
+        "day-05 | Cabernet and Complainernet Crawl: La Llimera Passeig followed by Mercadona"
+      ],
+      "visited": false
+    },
+    {
+      "index": 54,
+      "name": "Ten1 Tapas",
+      "rating": "4.8",
+      "review_count": "823",
+      "price": "€10–20",
+      "category": "Tapas",
+      "location": "",
+      "status": "",
+      "raw_text": "Ten1 Tapas 4.8(823) €10–20 · Tapas",
+      "lat": 38.9690169,
+      "lon": -0.1851574,
+      "partOfPlan": [
+        "day-07 | Too Old For This, Too Thirsty To Quit: Ten1 Tapas followed by Naranja Tradicional De Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 55,
+      "name": "Restaurante El Asombro Garden Grill",
+      "rating": "4.6",
+      "review_count": "1185",
+      "price": "$$",
+      "category": "Restaurant",
+      "location": "",
+      "status": "",
+      "raw_text": "Restaurante El Asombro Garden Grill 4.6(1,185) $$ · Restaurant",
+      "lat": 39.0102402,
+      "lon": -0.1746133,
+      "partOfPlan": [
+        "day-08 | Noisy Kids, Nice Views, One Beer Later: Centro de interpretación Marjal de Gandia followed by lunch at Restaurante El Asombro Garden Grill"
+      ],
+      "visited": false
+    },
+    {
+      "index": 56,
+      "name": "Celler Llinares",
+      "rating": "4.7",
+      "review_count": "246",
+      "price": "€10–20",
+      "category": "Cured ham bar",
+      "location": "",
+      "status": "",
+      "raw_text": "Celler Llinares 4.7(246) €10–20 · Cured ham bar",
+      "lat": 38.9680129,
+      "lon": -0.1795717,
+      "partOfPlan": [
+        "day-06 | The Decibel Defense Day Trip: Restaurant Telero followed by Forn del Duc Panaderia, Pasteleria"
+      ],
+      "visited": false
+    },
+    {
+      "index": 57,
+      "name": "KaiSushi CC Gandía",
+      "rating": "4.7",
+      "review_count": "2382",
+      "price": "€20–30",
+      "category": "Restaurant",
+      "location": "",
+      "status": "",
+      "raw_text": "KaiSushi CC Gandía 4.7(2,382) €20–30 · Restaurant",
+      "lat": 38.9704297,
+      "lon": -0.1687124,
+      "partOfPlan": [
+        "day-02 | Whine Not, We’re on Holiday: 38°59'06.2\"N 0°09'09.4\"W followed by lunch at KaiSushi CC Gandía"
+      ],
+      "visited": false
+    },
+    {
+      "index": 58,
+      "name": "Street Food By Chema Soler",
+      "rating": "4.6",
+      "review_count": "613",
+      "price": "€20–30",
+      "category": "Restaurant",
+      "location": "",
+      "status": "",
+      "raw_text": "Street Food By Chema Soler 4.6(613) €20–30 · Restaurant",
+      "lat": 38.9634746,
+      "lon": -0.1823383,
+      "partOfPlan": [
+        "day-04 | Hop To It Before Dad Needs A Nap: Street Food By Chema Soler followed by mercat del prado"
+      ],
+      "visited": false
+    },
+    {
+      "index": 59,
+      "name": "D-COW Gandia",
+      "rating": "4.0",
+      "review_count": "557",
+      "price": "€20–30",
+      "category": "Restaurant",
+      "location": "",
+      "status": "",
+      "raw_text": "D-COW Gandia 4.0(557) €20–30 · Restaurant",
+      "lat": 38.9645,
+      "lon": -0.17105,
+      "partOfPlan": [
+        "day-03 | Shhh... The Kids Are Plotting (Coffee Loop): D-COW Gandia followed by Parque Comercial Myo Gandia"
+      ],
+      "visited": false
+    },
+    {
+      "index": 60,
+      "name": "38°59'06.2\"N 0°09'09.4\"W",
+      "rating": "",
+      "review_count": "",
+      "price": "",
+      "category": "",
+      "location": "",
+      "status": "",
+      "raw_text": "38°59'06.2\"N 0°09'09.4\"W",
+      "lat": 38.9850556,
+      "lon": -0.1526111,
+      "partOfPlan": [
+        "day-02 | Whine Not, We’re on Holiday: 38°59'06.2\"N 0°09'09.4\"W followed by lunch at KaiSushi CC Gandía"
+      ],
+      "visited": false
+    }
+  ]
+}
